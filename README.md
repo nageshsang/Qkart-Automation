@@ -1,2 +1,3 @@
 # Qkart-Automation
-This is E-commerce Automation (Selenium java) project
+This is E-commerce Automation (Selenium java) project.
+Authour- Sangale Nagesh
